@@ -1,16 +1,166 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Het Patel</h1>
 
-<!--
-**Hetpatel7051/Hetpatel7051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 Aspiring DevOps & Cloud Engineer from India
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Engineer;AWS+Learner;Docker+%7C+Kubernetes;Linux+Enthusiast;Automation+Explorer" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 💫 About Me
+
+🔭 Currently learning **DevOps & Cloud Engineering**  
+🌱 Exploring **AWS, Docker, Kubernetes, CI/CD & Terraform**  
+💻 Passionate about **Automation & Scalable Infrastructure**  
+🎯 Goal: Become an **Industry-Level DevOps Engineer**  
+⚡ Fun fact: *I love solving infrastructure problems and automating workflows.*
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/YOUR_USERNAME" target="blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,githubactions" />
+</p>
+
+## 💻 Programming & Scripting
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash" />
+</p>
+
+## 🖥️ Operating Systems & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode" />
+</p>
+
+---
+
+# 🚀 DevOps Tools & Technologies
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 📂 Featured Projects
+
+## 🚀 Smart Attendance System
+- QR-based attendance management system
+- Built for automation and easy monitoring
+
+## ☁️ AWS DevOps Projects
+- CI/CD Pipelines
+- Dockerized Applications
+- Kubernetes Deployments
+
+---
+
+# 🎯 Current Learning
+
+- Kubernetes Administration
+- Terraform Infrastructure as Code
+- CI/CD Automation
+- AWS Cloud Services
+- Linux System Administration
+
+---
+
+# 👀 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+# 💡 DevOps Quote
+
+> “Automation is good, so long as you know exactly where to put the machine.”
+
+---
+
+<h3 align="center">
+⭐ From <a href="https://github.com/YOUR_USERNAME">YOUR_USERNAME</a>
+</h3>
